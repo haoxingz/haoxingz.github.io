@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Pretend to Be a Maker
+description: The maker blog of Haoxing Zhang 
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://haoxingz.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -14,15 +14,19 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
+ - title: Project
+   url: /project
+ - title: Travel
+   url: /travel
+ - title: Food
+   url: /food
  - title: About
    url: /about
- - title: Contact
-   url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: haoxingz 
+   linkedin: 
+   facebook: 
+   email: haoxing.zhang.david@gmail.com
 
 google_analytics: "UA-58263416-1"
